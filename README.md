@@ -1,4 +1,4 @@
-### Hi there 👋
+### Niels Olof Bouvin
 
 <!--
 **bouvin/bouvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an associate professor at the Department of Computer Science, Aarhus University, Denmark.
+
+My research interests include
+- Peer to Peer Networking
+- The Internet of Things
+- Web Development
+- Hypermedia
+- Computational Thinking
+- Sustainable Computing
